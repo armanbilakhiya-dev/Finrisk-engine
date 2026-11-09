@@ -4,3 +4,4 @@ redis
 websockets
 pytest
 httpx
+psycopg2-binary
